@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abd64e84.css",
+    "main.js": "/static/js/main.5c2ad59d.js",
+    "static/media/PASSPORT.jpg": "/static/media/PASSPORT.c7275880333a9a640789.jpg",
+    "index.html": "/index.html",
+    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
+    "main.5c2ad59d.js.map": "/static/js/main.5c2ad59d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.5c2ad59d.js"
+  ]
+}
